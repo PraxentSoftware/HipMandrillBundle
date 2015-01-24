@@ -1,7 +1,7 @@
 {
-    "name": "hipaway-travel/mandrill-bundle",
+    "name": "astonishdesign/mandrill-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony HipMandrillBundle",
+    "description": "Symfony HipMandrillBundle Fork",
     "keywords": ["Mandrill", "transaction mail", "transactional", "messages", "email"],
     "homepage": "https://github.com/Hipaway-Travel/HipMandrillBundle",
     "license": "MIT",
